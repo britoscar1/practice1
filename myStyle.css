@@ -1,0 +1,45 @@
+/* myStyle.css */
+/* Styles for the web application */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+
+}
+body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #2e2d2e;
+        color: rgb(80, 8, 95);
+        font-size: larger;
+        font-style: italic;
+
+    }
+header{
+    background-color: #c562b0;
+    height: 300px;
+    color: rgb(254, 254, 254);
+    font-size: 32px;
+    border-radius: 5px;
+    padding: 50px 20px;
+    
+}
+
+p{
+    line-height: 2;
+}
+        
+h1{
+    font-size: 66px;
+    color: rgb(0, 0, 0);
+}
+footer{
+    font-size: 0.9rem;
+    line-height: 10;
+    bottom: 0;
+    text-align: center;
+    color:rgb(4, 118, 118);
+    font-weight: bolder;
+    padding: 5px;
+
+}
